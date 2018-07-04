@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 [balanced]: ./graph_sup/balanced_dist.png "balanced_dist"
 [augumentation]: ./graph_sup/augumentation_sample.png "augumentation_sample"
 [preprocessed_image]: ./graph_sup/preprocessed_image.png "preprocessed_image"
-[model_structure]: ./graph_sup/model_structure.png "model_structure"
+[model_structure]: ./graph_sup/model_structure.PNG "model_structure"
 [val_loss]: ./graph_sup/val_loss.png "val_loss"
 
 ## Rubric Points
@@ -60,7 +60,7 @@ The following graph showed the model architecture (Nvidia CNN architecture) I ha
 * The Adam optimizer used was chosen, so the learning rate was not tuned manually. 
 * The model was trained and validated on different data sets to ensure that the model was not overfitting. The model was tested by running it through the simulator and ensuring that the vehicle could stay on the track. The details of the model architecture shown below. 
 
-![model_structure][model_structure]
+![alt text][model_structure]
 
 #### 2. Creation of the Training Set & Training Process
 
